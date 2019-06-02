@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestTask.WebAPI", "WebApplication2\TestTask.WebAPI.csproj", "{60B97461-5D96-42EA-878C-5FF17017B8B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestTask.BusinessLogic", "TestTask.BusinessLogic\TestTask.BusinessLogic.csproj", "{35CEF6DF-8553-4BCA-9692-A63896EE9387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B97461-5D96-42EA-878C-5FF17017B8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B97461-5D96-42EA-878C-5FF17017B8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B97461-5D96-42EA-878C-5FF17017B8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B97461-5D96-42EA-878C-5FF17017B8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CEF6DF-8553-4BCA-9692-A63896EE9387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CEF6DF-8553-4BCA-9692-A63896EE9387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CEF6DF-8553-4BCA-9692-A63896EE9387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CEF6DF-8553-4BCA-9692-A63896EE9387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2ECEEAD-BF26-40C0-9112-F83862D238EB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.csprojAssemblyReference.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.AssemblyInfo.cs
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.WebAPI.deps.json
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.WebAPI.runtimeconfig.json
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.WebAPI.runtimeconfig.dev.json
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.WebAPI.dll
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.BusinessLogic.dll
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.BusinessLogic.pdb
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.csproj.CopyComplete
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTask.WebAPI.pdb
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.dll
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTask.WebAPI.pdb

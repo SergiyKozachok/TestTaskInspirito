@@ -1,0 +1,14 @@
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTaskInspirito.deps.json
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTaskInspirito.runtimeconfig.json
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTaskInspirito.runtimeconfig.dev.json
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTaskInspirito.dll
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.csprojAssemblyReference.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.csproj.CoreCompileInputs.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.RazorAssemblyInfo.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.RazorAssemblyInfo.cs
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.AssemblyInfoInputs.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.AssemblyInfo.cs
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.RazorTargetAssemblyInfo.cache
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\TestTaskInspirito.pdb
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.dll
+C:\Users\Serhiy\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\TestTaskInspirito.pdb
